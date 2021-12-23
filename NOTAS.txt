@@ -1,1 +1,5 @@
-kotlinc hello.kt -include-runtime -d hello.jar
+Para compilar:
+kotlinc main.kt -include-runtime -d main.jar
+
+Para rodar:
+java -jar main.jar
